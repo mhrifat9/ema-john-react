@@ -1,0 +1,17 @@
+.product-section{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    position: relative;
+}
+
+.item-section{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+   
+}
+.cart{
+    background-color: #ff990085;
+    text-align: center;
+    color: black;
+
+}
